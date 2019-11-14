@@ -8,5 +8,6 @@ fun number(target: Int) = when(target) {
     5 -> "다섯"
     6 -> "여섯"
     7 -> "일곱"
+    8 -> "여덟"
     else -> "모름"
 }
