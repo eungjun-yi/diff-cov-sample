@@ -7,5 +7,6 @@ fun number(target: Int) = when(target) {
     4 -> "넷"
     5 -> "다섯"
     6 -> "여섯"
+    7 -> "일곱"
     else -> "모름"
 }
